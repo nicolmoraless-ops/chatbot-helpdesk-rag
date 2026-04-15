@@ -85,4 +85,4 @@ Luego escribir una consulta en consola.
 
 ## Autor
 
-Proyecto académico - Ingeniería de Soluciones con IA
+Estudiantes de DUOCUC - Ingeniería de Soluciones con IA
